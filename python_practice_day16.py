@@ -12,8 +12,5 @@ def move_zeros(lst):
     return result
 
 
-print(move_zeros([1, 0, 2, 0, 4, 0, 5]))
-
-
-
-    
+if __name__ == "__main__":
+    print(move_zeros([1, 0, 2, 0, 4, 0, 5]))
